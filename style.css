@@ -1,3 +1,10 @@
+ body{
+   background-color: black;
+
+
+ }
+ 
+ 
  #clock
  {
     
@@ -6,4 +13,7 @@
     font-style: italic;
     border-radius: 15px;
 
+ }
+ #time{
+   color: brown;
  }
